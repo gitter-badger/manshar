@@ -2,6 +2,8 @@
 
 # Manshar | منشر [![Build Status](https://travis-ci.org/manshar/manshar.png?branch=master)](https://travis-ci.org/manshar/manshar) [![Code Climate](https://codeclimate.com/github/manshar/manshar.png)](https://codeclimate.com/github/manshar/manshar)
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/manshar/manshar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Manshar](http://www.manshar.com/) is an Arabic publishing platform that focuses mainly on content, making it beautiful and easy to read without any distractions that has nothing to do with the content. 
 <p align="center"><img src="http://storage.googleapis.com/public-assets/screenshots/Screen%20Shot%202014-11-23%20at%201.25.05%20PM.png" width="700px" alt="Manshar Main Page Screenshot"></p>
 
